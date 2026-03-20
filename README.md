@@ -24,7 +24,7 @@ The system supports both image and webcam-based detection and demonstrates a com
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * Python
 * YOLOv8 (Ultralytics)
@@ -125,9 +125,9 @@ python src/inference.py
 ![results](results/results.png)
 
 The model successfully detects animals and displays:
--Class name (bear, deer, dog, tiger, elephant)
--Confidence score
--Bounding boxes
+- Class name (bear, deer, dog, tiger, elephant)
+- Confidence score
+- Bounding boxes
 
 Example outputs are available in the `outputs/` folder.
 
@@ -135,9 +135,9 @@ Example outputs are available in the `outputs/` folder.
 
 ## Model Performance
 
--mAP@50: 0.553
--Precision: 0.659
--Recall: 0.554
+- mAP@50: 0.553
+- Precision: 0.659
+- Recall: 0.554
 
 The model achieves moderate accuracy due to limited dataset size. Performance can be improved with more training data or using YOLOv8l and hyperparameter tuning.
 
@@ -154,6 +154,8 @@ The model achieves moderate accuracy due to limited dataset size. Performance ca
 ## Author
 
 **Piyush Bhatia**
-GitHub: https://github.com/Piyush-debug53
-Linkedin: https://www.linkedin.com/in/piyush-bhatia-14274a28a/
+
+- GitHub: [Piyush-debug53](https://github.com/Piyush-debug53)  
+- LinkedIn: [Piyush Bhatia](https://www.linkedin.com/in/piyush-bhatia-14274a28a/)
+
 ---
