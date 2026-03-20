@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+yolo_env/
+yolo_gpu_env/
+.env
+
+# YOLO / ML outputs
+runs/
+*.pt
+labels.cache
+
+# OS / IDE
+.DS_Store
+.vscode/
+data/
+
+input/videos/
+outputs/videos/
+*.mp4
