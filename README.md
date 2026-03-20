@@ -110,11 +110,14 @@ python src/inference.py
 ## Demo
 
 * Input: Live webcam feed / images/video
+    [Click to watch input video](input/videos/wildlife_documentary.mp4)
+
 * Output: Bounding boxes with detected animal labels
     ![Detection](outputs/images/deer.jpg)
     ![Detection](outputs/images/Elephant.jpg)
     ![Detection](outputs/images/multi_animal.jpg)
-    ![Detection](outputs/videos/wildlife_documentary.mp4)
+
+    [Click to watch output video](outputs/videos/wildlife_documentary.mp4)
 
 ---
 
