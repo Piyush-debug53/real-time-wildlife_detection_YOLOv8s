@@ -1,5 +1,7 @@
 # Real-Time Wildlife Detection using YOLOv8
 
+⭐ If you found this project useful, please consider giving it a star!
+
 ## Overview
 
 This project implements a real-time wildlife detection system using the YOLOv8 model. It is capable of detecting multiple animal classes including:
